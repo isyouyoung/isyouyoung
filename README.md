@@ -1,16 +1,34 @@
-## Hi there 👋
+🚀 [유영상] | 빅데이터 전공 대학생
+👨‍🎓 제 소개입니다!
+🎓 서울강서폴리텍 빅데이터학과 1학년 재학 중
+🔧 이전 경력: 모터원 메르세데스 벤츠 인증중고차 인스펙션 근무
+💡 관심 분야: 빅데이터, AI, 클라우드 컴퓨팅
+🏸 취미: 컴퓨터 만지기, 배드민턴 치기
 
-<!--
-**isyouyoung/isyouyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tech Stack & Skills
+📊 빅데이터 & 데이터 분석
+VMware Workstation Pro
+Visual Studio Code
+IntelliJ IDEA 2024.3.4.1
+gVim 8.2
+(현재 배우고 있습니다!)
+Python, Java (Spring Boot)
+RESTful API 개발 및 운영
+🤖 AI & 머신러닝
+(배울 예정입니다!)
 
-Here are some ideas to get you started:
+🎯 목표 (2025)
+✅ 빅데이터 분석 및 AI 모델 개발 능력 향상
+✅ 클라우드 네이티브 기술(Docker) 학습 및 프로젝트 진행
+✅ 오픈소스 프로젝트 참여 및 기여
+✅ 학우들과 함께 성장하며 성공을 향해 나아가기
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 프로젝트 (예정 및 진행 중)
+🔹 [한이음 곁봄 프로젝트] - (진행중)
+🔹 [한이음 --- 프로젝트] - (1학년 2학기 진행예정)
+
+📞 Contact
+📧 Email: [isyouyoung@gmail.com]
+📍 Location: 서울강서폴리텍
+
+🚀 함께 배우고 성장하며 성공을 향해 나아갑시다! 🚀

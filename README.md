@@ -126,6 +126,12 @@ OpenAI API · DART API · KIS API · Nginx · HTTPS
 
 ---
 
+## GitHub Stats
+<p align="center">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=isyouyoung&show_icons=true&theme=tokyonight"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=isyouyoung&layout=compact&theme=tokyonight"/>
+</p>
+
 ## Contact
 
 **Email**

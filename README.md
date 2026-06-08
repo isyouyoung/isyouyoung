@@ -92,12 +92,20 @@ Spring Boot · Spring Security · JPA · MariaDB · Redis · Docker · AWS EC2
 
 ## Experience
 
-### Hanium ICT Mentoring Project
+### 한이음 ICT 멘토링 프로젝트
 
-* 팀 프로젝트 참여
-* 프로젝트 입선
-* Git 기반 협업 경험
-* 역할 분담 및 기능 개발 수행
+- 팀 프로젝트 "곁봄" 개발 참여
+- 한이음 ICT 멘토링 프로젝트 선정
+- Git 기반 협업 및 기능 개발 수행
+- 프로젝트 관련 기사
+  - [기사 보기](https://www.gosiweek.com/article/1065576047169099)
+
+### 새싹 해커톤 Project
+
+- 팀 프로젝트 "Utility" 개발 참여
+- 해커톤 입선
+- 프로젝트 시연 영상
+  - [YouTube](https://www.youtube.com/watch?v=vh2G5gvZoI4)
 
 ---
 
@@ -109,14 +117,6 @@ Spring Boot · Spring Security · JPA · MariaDB · Redis · Docker · AWS EC2
 * 클라우드 기반 서비스 운영
 * 대용량 데이터 처리
 * 클린 코드 및 리팩토링
-
----
-
-## GitHub Stats
-
-![Yoo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=isyouyoung&show_icons=true&theme=radial&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isyouyoung&layout=compact&theme=radial&hide_border=true)
 
 ---
 

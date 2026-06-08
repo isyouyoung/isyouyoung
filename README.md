@@ -5,7 +5,7 @@
 > **"기본기를 탄탄하게 다져나가며, 어제보다 나은 코드를 고민하는 개발자입니다."**
 >
 > Java와 Spring Boot를 중심으로 백엔드 개발을 공부하고 있습니다.
-> JWT 인증, Redis 캐싱, Open API 연동, Docker 기반 배포 환경을 직접 구축하며
+> JWT 인증, Redis 캐싱, Open API 연동, AWS RDS 기반 배포 환경을 직접 구축하며
 > 실무에 필요한 기술들을 하나씩 경험하고 있습니다.
 
 ---
@@ -25,7 +25,7 @@
 * Spring Security 및 JWT 인증 시스템 구현
 * Redis를 활용한 토큰 및 인증번호 캐싱
 * 한국투자증권 Open API 기반 주식 정보 서비스 개발
-* Docker · Nginx · AWS EC2 환경 배포 경험
+* Nginx · AWS EC2 환경 배포 경험
 * 문제 해결 과정과 트러블슈팅을 문서화하며 성장하는 개발자를 지향합니다.
 
 ---
@@ -47,16 +47,11 @@
 
 ### Infra & DevOps
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge\&logo=amazonaws)
+![AWS RDS](https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=amazonrds)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-
-### Language
-
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge\&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
 
 ---
 
@@ -79,7 +74,8 @@
 
 #### Tech
 
-Spring Boot · Spring Security · JPA · MariaDB · Redis · Docker · AWS EC2
+Spring Boot · Spring Security · JPA · MariaDB · Redis · AWS EC2
+OpenAI API · DART API · KIS API · Nginx · HTTPS
 
 #### Problem Solving
 
